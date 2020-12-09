@@ -1,0 +1,8 @@
+S0-cisP-MIN.xyz
+S0-cisT-MIN.xyz
+S0-MIN.xyz
+S1-CT1-MIN.xyz
+S1-CT2-MIN.xyz
+S1-MIN.xyz
+S1S0-MIN-1.xyz
+S1S0-MIN-2.xyz
